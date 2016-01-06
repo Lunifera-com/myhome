@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Volumes/Development/lu_myhome/git/myhome/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Volumes/Development/lu_myhome/git/myhome/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_68c4930036502051380c96879f02732b5dcbe88e.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/lu_myhome/git/myhome/android/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Volumes/Development/lu_myhome/git/myhome/android/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_72a681502e5ddf467ae821550dba79bf0528b5fa.jar" />
+    </item>
+    <item
+        jar="/Users/bernhardedler/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-mapper-asl/1.9.2/95400a7922ce75383866eb72f6ef4a7897923945/jackson-mapper-asl-1.9.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="95400a7922ce75383866eb72f6ef4a7897923945">
+        <dex dex="/Volumes/Development/lu_myhome/git/myhome/android/app/build/intermediates/pre-dexed/debug/jackson-mapper-asl-1.9.2_5f98206eb1c47fa80f58924af1150b4a3d0302c9.jar" />
+    </item>
+    <item
+        jar="/Users/bernhardedler/.gradle/caches/modules-2/files-2.1/org.codehaus.jackson/jackson-core-asl/1.9.2/8493982bba1727106d767034bd0d8e77bc1931a9/jackson-core-asl-1.9.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8493982bba1727106d767034bd0d8e77bc1931a9">
+        <dex dex="/Volumes/Development/lu_myhome/git/myhome/android/app/build/intermediates/pre-dexed/debug/jackson-core-asl-1.9.2_c789edc29cf7ebd25d509bfd5fca632b3a54bb1c.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/lu_myhome/git/myhome/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Volumes/Development/lu_myhome/git/myhome/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_7e7ac53115ef81d1bcd1af42806ec7e68a5eb660.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/lu_myhome/git/myhome/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Volumes/Development/lu_myhome/git/myhome/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_a3ca9536f09484859472a968e8b302894830e460.jar" />
+    </item>
+    <item
+        jar="/Volumes/Development/lu_myhome/git/myhome/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Volumes/Development/lu_myhome/git/myhome/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_360d9af9576adba84839ece3f8cdffc3fc4684f6.jar" />
+    </item>
+    <item
+        jar="/Users/bernhardedler/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Volumes/Development/lu_myhome/git/myhome/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_6a9957a60f3ae33da6570eafa873a4ce0eb1747e.jar" />
+    </item>
+
+</items>

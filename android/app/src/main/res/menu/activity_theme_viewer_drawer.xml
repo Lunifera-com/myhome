@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_action_select_theme"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menuitem_selectTheme" />
+        <item
+            android:id="@+id/menu_action_select_endpoint"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menuitem_selectEndpoint" />
+        <item
+            android:id="@+id/menu_action_create_theme"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/menuitem_composeTheme" />
+    </group>
+
+    <item android:title="Settings">
+        <menu>
+            <item
+                android:id="@+id/menu_action_settings"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="@string/menuitem_settings" />
+        </menu>
+    </item>
+
+</menu>

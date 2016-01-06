@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyHome</string>
+
+    <string name="title_activity_settings">Settings</string>
+    <string name="themeNameDialogOkButtonString">Create new Theme</string>
+    <string name="baseAPIUrl">REST URL:</string>
+    <string name="title_activity_theme_viewer">ThemeViewer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="menuitem_settings">Settings</string>
+    <string name="menuitem_composeTheme">Compose Theme</string>
+    <string name="menuitem_selectTheme">Select Theme</string>
+    <string name="menuitem_selectEndpoint">Select Endpoint</string>
+
+</resources>
